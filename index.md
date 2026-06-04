@@ -1,8 +1,10 @@
+---
+title: NYU Fiduciary AI Breakout
+---
+
 # NYU Fiduciary AI Breakout
 
 Simple public workspace for the Friday, June 5, 2026 breakout session at the NYU Law workshop on Fiduciary Duties and AI.
-
-[Live site](https://dazzaji.github.io/june-5-breakout/) | [Repository](https://github.com/dazzaji/june-5-breakout)
 
 The goal is to help a small group use AI agents to map practical next steps for fiduciary AI: actors, duties, technical mechanisms, governance institutions, open questions, and concrete follow-up actions.
 
