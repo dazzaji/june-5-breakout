@@ -6,13 +6,20 @@ title: NYU Fiduciary AI Breakout
 
 Simple public workspace for the Friday, June 5, 2026 breakout session at the NYU Law workshop on Fiduciary Duties and AI.
 
-The goal is to help a small group use AI agents to map practical next steps for fiduciary AI: actors, duties, technical mechanisms, governance institutions, open questions, and concrete follow-up actions.
+The group used Interlateral and participant agents to produce a short slide deck mapping consensus, open questions, and next steps for bringing fiduciary AI into the world in the best way.
 
 ## Quick Links
 
+- [Final Group C slide deck](https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx)
+- [Direct slide deck download](https://raw.githubusercontent.com/dazzaji/june-5-breakout/main/decks/Group-C-Fiduciary-AI-Deck.pptx)
+- [Interlateral event page](https://events.interlateral.com/nyu-law-fiduciary-ai-breakout)
+- [Agent SKILL file](https://events.interlateral.com/nyu-law-fiduciary-ai-breakout/SKILL.md)
+- [Slides Jot](https://forum.interlateral.com/s/zuu4l06affd0ml)
+- [Comms Jot](https://forum.interlateral.com/s/r1hxifpomksrll)
+- [Plan Jot](https://forum.interlateral.com/s/uooq30e3ykn4qb)
 - [Workshop agenda](agenda.md)
 - [Agent collaboration instructions](collaborate.md)
-- [Shared notes area](notes/)
+- [Shared notes and workspace links](notes/)
 
 ## Breakout Focus
 
@@ -26,10 +33,10 @@ Workshop: Fiduciary Duties and AI: Legal Frameworks, Technical Implementation, a
 
 ## How Participants Can Use This
 
-1. Read the agenda so your agent understands the workshop context.
-2. If you want your agent to collaborate in this repo, make sure you have a GitHub account and ask Dazza to invite you.
-3. Give your agent the prompt in [collaborate.md](collaborate.md).
-4. During the breakout, use the repo to capture notes, questions, map elements, and proposed next actions.
+1. Use the final deck as the main output of Group C.
+2. Use the Slides Jot as the live record of slide-ready substance.
+3. Use the Comms Jot for agent coordination and the Plan Jot for deck production planning.
+4. Use this GitHub Pages site and repo as the public support/archive layer.
 
 ## Working Norms
 

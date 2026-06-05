@@ -1,24 +1,35 @@
 # Agent Collaboration
 
-This page is for participants who want their AI agent to collaborate in this repo during or after the breakout.
+This page is for participants who want their AI agent to understand or continue the Group C work from the NYU Law Fiduciary AI breakout.
 
-## Human Setup
+## Main Links
 
-1. Create or use a GitHub account.
-2. Ask Dazza to invite that account to `dazzaji/june-5-breakout`.
-3. Accept the GitHub invitation.
-4. Give your agent the prompt below.
+- Event page: <https://events.interlateral.com/nyu-law-fiduciary-ai-breakout>
+- Agent SKILL file: <https://events.interlateral.com/nyu-law-fiduciary-ai-breakout/SKILL.md>
+- Final Group C slide deck: <https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx>
+- Direct slide deck download: <https://raw.githubusercontent.com/dazzaji/june-5-breakout/main/decks/Group-C-Fiduciary-AI-Deck.pptx>
+- Slides Jot: <https://forum.interlateral.com/s/zuu4l06affd0ml>
+- Comms Jot: <https://forum.interlateral.com/s/r1hxifpomksrll>
+- Plan Jot: <https://forum.interlateral.com/s/uooq30e3ykn4qb>
 
-## What Agents Should Produce
+## Workspace Roles
 
-Agents should help the group make a useful map, not a polished report. Good outputs include:
+- Slides Jot: substantive slide-ready content and the live deck record.
+- Comms Jot: agent coordination only.
+- Plan Jot: deck outline, assignments, timing, and export checklist.
+- GitHub repo and Pages site: support, archive, and publication surface.
 
-- Actors and stakeholders.
-- Fiduciary duties, risks, and failure modes.
-- Technical mechanisms for loyalty, care, delegation, authority, consent, audit, and enforcement.
-- Governance institutions and standards bodies.
+Participants do not need GitHub accounts to use the Jots or event page.
+
+## What Agents Helped Produce
+
+The breakout deliverable is a short deck mapping:
+
+- Consensus.
 - Open questions.
-- Confident next actions.
+- Next steps for bringing fiduciary AI into the world in the best way.
+
+Useful supporting material includes actors and stakeholders, duties and risks, technical mechanisms, governance institutions, standards bodies, and concrete follow-up actions.
 
 ## Suggested Agent Prompt
 
@@ -27,20 +38,29 @@ You are helping my breakout group at the NYU Law Fiduciary AI workshop.
 
 Repo: https://github.com/dazzaji/june-5-breakout
 Website: https://dazzaji.github.io/june-5-breakout/
+Event: https://events.interlateral.com/nyu-law-fiduciary-ai-breakout
+Agent SKILL: https://events.interlateral.com/nyu-law-fiduciary-ai-breakout/SKILL.md
+Final deck: https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx
+Slides Jot: https://forum.interlateral.com/s/zuu4l06affd0ml
+Comms Jot: https://forum.interlateral.com/s/r1hxifpomksrll
+Plan Jot: https://forum.interlateral.com/s/uooq30e3ykn4qb
 
-First read README.md, agenda.md, and collaborate.md.
+First read the Agent SKILL and the final deck. Then use the Jots and this repo as supporting context.
 
 Context:
 - The workshop is operating under Chatham House rules.
 - Do not attribute comments to named people unless I explicitly ask you to.
 - The breakout focus is: "Using agentic AI to map the path forward for fiduciary AI."
-- The goal is a practical map of actors, duties, technologies, institutions, open questions, and next actions.
+- The Group C output is a slide deck summarizing consensus, open questions, and next steps.
 
 Work style:
 - Keep notes short and useful.
 - Separate facts, hypotheses, questions, and recommendations.
 - Prefer concrete next actions over broad conclusions.
-- If you edit the repo, put your notes in notes/<github-username>-agent-notes.md unless Dazza gives a different filename.
+- Put substantive slide content in the Slides Jot.
+- Put coordination messages in the Comms Jot.
+- Put deck planning and assignments in the Plan Jot.
+- Use GitHub only if your human wants a durable file, source artifact, or publication copy.
 
 Output format:
 1. Key observations
@@ -49,6 +69,28 @@ Output format:
 4. Recommended next actions
 5. Anything that should be raised to the whole group
 ```
+
+## Jot API
+
+Read a Jot:
+
+```bash
+curl -sS https://forum.interlateral.com/api/share/zuu4l06affd0ml/note
+```
+
+Edit a Jot:
+
+```bash
+curl -sS -X POST https://forum.interlateral.com/api/share/zuu4l06affd0ml/edit \
+  -H 'Content-Type: application/json' \
+  -d '{"edits":[{"oldText":"<text to replace>","newText":"<replacement text>"}]}'
+```
+
+Share IDs:
+
+- `zuu4l06affd0ml` - Slides Jot.
+- `r1hxifpomksrll` - Comms Jot.
+- `uooq30e3ykn4qb` - Plan Jot.
 
 ## GitHub Workflow
 
