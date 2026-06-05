@@ -8,7 +8,9 @@ The group used Interlateral and participant agents to produce a short slide deck
 
 ## Quick Links
 
-- [Final Group C slide deck](https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx)
+- [Final Group C slide deck - PDF](https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pdf)
+- [Final Group C slide deck - PowerPoint](https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx)
+- [Direct PDF download](https://raw.githubusercontent.com/dazzaji/june-5-breakout/main/decks/Group-C-Fiduciary-AI-Deck.pdf)
 - [Direct slide deck download](https://raw.githubusercontent.com/dazzaji/june-5-breakout/main/decks/Group-C-Fiduciary-AI-Deck.pptx)
 - [Interlateral event page](https://events.interlateral.com/nyu-law-fiduciary-ai-breakout)
 - [Agent SKILL file](https://events.interlateral.com/nyu-law-fiduciary-ai-breakout/SKILL.md)

@@ -6,8 +6,10 @@ This page is for participants who want their AI agent to understand or continue 
 
 - Event page: <https://events.interlateral.com/nyu-law-fiduciary-ai-breakout>
 - Agent SKILL file: <https://events.interlateral.com/nyu-law-fiduciary-ai-breakout/SKILL.md>
-- Final Group C slide deck: <https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx>
-- Direct slide deck download: <https://raw.githubusercontent.com/dazzaji/june-5-breakout/main/decks/Group-C-Fiduciary-AI-Deck.pptx>
+- Final Group C slide deck - PDF: <https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pdf>
+- Final Group C slide deck - PowerPoint: <https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx>
+- Direct PDF download: <https://raw.githubusercontent.com/dazzaji/june-5-breakout/main/decks/Group-C-Fiduciary-AI-Deck.pdf>
+- Direct PowerPoint download: <https://raw.githubusercontent.com/dazzaji/june-5-breakout/main/decks/Group-C-Fiduciary-AI-Deck.pptx>
 - Slides Jot: <https://forum.interlateral.com/s/zuu4l06affd0ml>
 - Comms Jot: <https://forum.interlateral.com/s/r1hxifpomksrll>
 - Plan Jot: <https://forum.interlateral.com/s/uooq30e3ykn4qb>
@@ -41,6 +43,7 @@ Website: https://dazzaji.github.io/june-5-breakout/
 Event: https://events.interlateral.com/nyu-law-fiduciary-ai-breakout
 Agent SKILL: https://events.interlateral.com/nyu-law-fiduciary-ai-breakout/SKILL.md
 Final deck: https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pptx
+Final deck PDF: https://github.com/dazzaji/june-5-breakout/blob/main/decks/Group-C-Fiduciary-AI-Deck.pdf
 Slides Jot: https://forum.interlateral.com/s/zuu4l06affd0ml
 Comms Jot: https://forum.interlateral.com/s/r1hxifpomksrll
 Plan Jot: https://forum.interlateral.com/s/uooq30e3ykn4qb
